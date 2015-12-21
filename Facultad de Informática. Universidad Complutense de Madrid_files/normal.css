@@ -2862,7 +2862,10 @@ li.iniciasesion{
  * SLIDER
  *****************************************************************************************************************************
  */
- 
+#slider{
+	margin-top: 20px;
+	margin-bottom: 15px;
+ }
 #slider-box {
     -moz-animation: autoSlider 15s infinite linear;
     -o-animation: autoSlider 15s infinite linear;
