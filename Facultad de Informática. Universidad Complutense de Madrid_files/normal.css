@@ -2865,6 +2865,7 @@ li.iniciasesion{
 #slider{
 	margin-top: 20px;
 	margin-bottom: 15px;
+	margin-left: -155px;
  }
 #slider-box {
     -moz-animation: autoSlider 15s infinite linear;
@@ -2879,7 +2880,7 @@ li.iniciasesion{
     transition: all 0.75s ease;
 
     height: 100%;
-    width: 300%;
+    width:300%;
 }
 
 #slider-container {
@@ -2890,25 +2891,6 @@ li.iniciasesion{
     width: 80%;
 }
 
-.element-blue,
-.element-green,
-.element-red {
-    min-height: 400px;
-    max-height: 100%;
-    width: 100%;
-}
-
-.element-blue {
-    background: blue;
-}
-
-.element-green {
-    background: green;
-}
-
-.element-red {
-    background: red;
-}
 
 .slider-element {
     float: left;
@@ -2928,6 +2910,7 @@ li.iniciasesion{
         margin-left: -100%;
     }
 
+
     65% {
         margin-left: -100%;
     }
@@ -2935,7 +2918,7 @@ li.iniciasesion{
     70% {
         margin-left: -200%;
     }
-
+	
     95% {
         margin-left: -200%;
     }
@@ -2957,7 +2940,7 @@ li.iniciasesion{
     35% {
         margin-left: -100%;
     }
-
+    
     65% {
         margin-left: -100%;
     }
@@ -2974,6 +2957,7 @@ li.iniciasesion{
         margin-left: 0;
     }
 }
+
 
 @keyframes autoSlider {
     0% {
@@ -2995,7 +2979,7 @@ li.iniciasesion{
     70% {
         margin-left: -200%;
     }
-
+	
     95% {
         margin-left: -200%;
     }
