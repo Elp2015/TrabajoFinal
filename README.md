@@ -4,9 +4,9 @@ Creación de una web mas amigable para futuros que quieran informarse sobre la c
 Nuestro primer objetivo es, no solo facilitar el acceso a la información, sino mostrarla de una forma más clara e informal, puesto que está dirigido a gente joven que lo que busca es mucha información sencilla y directa, creemos que con esto aumentaremos el número de futuros alumnos. 
 
 Creadores:
-* Victor Tobes Pérez
+* Víctor Tobes Pérez
 * Julia Gracia Sancha
-* Alejandro Scatton Lódero
+* Alejandro Scatton Lóndero
 * Beatriz Manjón Corrales
 * José María Díaz Alonso 
 
