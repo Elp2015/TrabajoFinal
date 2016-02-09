@@ -9,7 +9,8 @@ Creadores:
 * Alejandro Scatton Lóndero
 * Beatriz Manjón Corrales
 * José María Díaz Alonso 
-* 
+
+
 # Final Project: ELP 2015-2016
 Creating a more user-friendly website for prospective students who want to learn about the studies in our university, this website is intended to complement the official website of the faculty of computer science of the UCM: informatica.ucm.es
 
